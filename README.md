@@ -18,7 +18,7 @@ And looking into what can be done with VisionOS
 
 ### 🌱 Currently Listening to
 
-Ethan Gruska - On the Outside
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1196784744&cover_image=true&theme=natemoo-re&show_offline=false&background_color=454545&interchange=true&bar_color=b0b0b0&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1196784744&redirect=true)
 
 ### 💬 Get in Touch
 
