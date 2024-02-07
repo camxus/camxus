@@ -16,7 +16,7 @@ I'm Camillus Konkwo, a passionate Fullstack Developer currently working at [BonR
 I'm currently diving deep into Rust programming language, exploring its unique features and advantages for system programming and beyond.
 And looking into what can be done with VisionOS
 
-### 🌱 Currently Listening to
+### 🎧 Currently Listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1196784744&cover_image=true&theme=natemoo-re&show_offline=false&background_color=454545&interchange=true&bar_color=b0b0b0&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1196784744&redirect=true)
 
