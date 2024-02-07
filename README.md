@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Camillus Konkwo, a passionate Fullstack Developer currently working at [BonRepublic](https://github.com/bonrepublic)'s Platform. I'm currently also deeply involved in crafting a Fullstack social application using Expo, leveraging my skills in both frontend and backend development. Additionally, I'm enthusiastically learning Rust to broaden my technical expertise.
+I'm Camillus, a passionate Fullstack Developer currently working at [BonRepublic](https://github.com/bonrepublic)'s Platform. I'm currently also deeply involved in crafting a Fullstack social application using Expo, leveraging my skills in both frontend and backend development. Additionally, I'm enthusiastically learning Rust to broaden my technical expertise.
 
 ### 🔧 Technologies & Tools
 
