@@ -5,14 +5,16 @@ I'm Camillus Konkwo, a passionate Fullstack Developer currently working at [BonR
 ### 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript, C, Python, HTML, CSS
-- **Frontend:** React, ReactNative/Expo, Redux, Vue.js,
+- **Frontend:** React, ReactNative/Expo, Redux, Vue.js, Three.js
 - **Backend:** Node.js, Express.js,
 - **Databases:** AWS, MongoDB, Serverless, Firebase
 - **Tools:** Git, Docker, VS Code, Postman
+- **Web3.0:** Helmet, Hardhat, Metamask
 
 ### 🌱 Currently Learning
 
 I'm currently diving deep into Rust programming language, exploring its unique features and advantages for system programming and beyond.
+And looking into what can be done with VisionOS
 
 ### 🌱 Currently Listening to
 
