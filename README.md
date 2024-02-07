@@ -5,7 +5,7 @@ I'm Camillus Konkwo, a passionate Fullstack Developer currently working at [BonR
 ### 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript, C, Python, HTML, CSS
-- **Frontend:** React, ReactNative/Expo, Redux, Vue.js, Three.js
+- **Frontend:** React, ReactNative/Expo, Redux, Vue.js, Three.js, Tailwind
 - **Backend:** Node.js, Express.js,
 - **Databases:** AWS, MongoDB, Serverless, Firebase
 - **Tools:** Git, Docker, VS Code, Postman
