@@ -25,6 +25,6 @@ And looking into what can be done with VisionOS
 Feel free to reach out to me for any queries, collaboration opportunities, or just to have a chat!
 
 - 📫 Email: [camillus.konkwo+github@gmail.com](mailto:camillus.konkwo+github@gmail.com)
-- 🌐 Website: [https://camillus-konkwo.vercel.app]("https://camillus-konkwo.vercel.app")
+- 🌐 Website: [camillus-konkwo.vercel.app]("https://camillus-konkwo.vercel.app/")
 
 Let's connect and build something awesome together! 😊
