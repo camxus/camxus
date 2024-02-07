@@ -1,12 +1,28 @@
-### Hi there 👋
+# Hi there 👋
 
+I'm Camillus Konkwo, a passionate Fullstack Developer currently working at [BonRepublic](https://github.com/bonrepublic)'s Platform. I'm currently also deeply involved in crafting a Fullstack social application using Expo, leveraging my skills in both frontend and backend development. Additionally, I'm enthusiastically learning Rust to broaden my technical expertise.
 
+## 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
+- **Languages:** JavaScript, TypeScript, C, Python, HTML, CSS
+- **Frontend:** React, ReactNative/Expo, Redux, Vue.js,
+- **Backend:** Node.js, Express.js,
+- **Databases:** AWS, MongoDB, Serverless, Firebase
+- **Tools:** Git, Docker, VS Code, Postman
 
-- 🔭 I’m currently working at [BonRepublic]("https://github.com/bonrepublic")'s Platform 
-- 🔭 I’m currently working on a Fullstack social application 
-- 🌱 I’m currently learning Rust
+## 🌱 Currently Learning
 
-- 💬 Ask me about anything!
-- 📫 How to reach me: camillus.konkwo+github@gmail.com
+I'm currently diving deep into Rust programming language, exploring its unique features and advantages for system programming and beyond.
+
+## 🌱 Currently Listening to
+
+Ethan Gruska - On the Outside
+
+## 💬 Get in Touch
+
+Feel free to reach out to me for any queries, collaboration opportunities, or just to have a chat!
+
+- 📫 Email: [camillus.konkwo+github@gmail.com](mailto:camillus.konkwo+github@gmail.com)
+- 🌐 Website: [camilluskonkwo.vercel.app](https://camilluskonkwo.vercel.app)
+
+Let's connect and build something awesome together! 😊
