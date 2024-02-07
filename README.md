@@ -6,7 +6,7 @@ I'm Camillus, a passionate Fullstack Developer currently working at [BonRepublic
 
 - **Languages:** JavaScript, TypeScript, C, Python, HTML, CSS
 - **Frontend:** React, ReactNative/Expo, Redux, Vue.js, Three.js, Tailwind
-- **Backend:** Node.js, Express.js,
+- **Backend:** Node.js, Express.js, GraphQL
 - **Databases:** AWS, MongoDB, Serverless, Firebase
 - **Tools:** Git, Docker, VS Code, Postman
 - **Web3.0:** Helmet, Hardhat, Metamask
