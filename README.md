@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm Camillus, a passionate Fullstack Developer currently working at [BonRepublic](https://github.com/bonrepublic)'s Platform. Currently on Breadboards learing IoT, MQTT and playing with ESP32 Dev Kits!
-
+I'm Camillus, a passionate Fullstack Developer currently working at [BonRepublic](https://github.com/bonrepublic)'s Platform. 
 ### 🔧 Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript, C, Python, HTML, CSS
@@ -13,8 +12,8 @@ I'm Camillus, a passionate Fullstack Developer currently working at [BonRepublic
 
 ### 🌱 Currently Learning
 
-I'm currently diving deep into Rust programming language, exploring its unique features and advantages for system programming and beyond.
-And looking into what can be done with VisionOS
+Currently on Breadboards learing IoT, MQTT and playing with ESP32 Dev Kits!
+
 
 ### 🎧 Currently Listening to
 
