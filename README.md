@@ -12,7 +12,7 @@ I'm Camillus, a passionate Fullstack Developer currently working at [BonRepublic
 
 ### 🌱 Currently Learning
 
-Currently on Breadboards learing IoT, MQTT and playing with ESP32 Dev Kits!
+Currently on Breadboards learning IoT, MQTT and playing with ESP32 Dev Kits!
 
 
 ### 💬 Get in Touch
