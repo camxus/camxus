@@ -22,6 +22,6 @@ Feel free to reach out for collaborations, questions, or just a friendly chat!
 
 - 📫 **Email:** [camillus.konkwo+github@gmail.com](mailto:camillus.konkwo+github@gmail.com)  
 - 🌐 **Website:** [camillus-konkwo.vercel.app](https://camillus-konkwo.vercel.app/)  
-- 💡 **fframess:** [fframess.com](https://fframess.com)
+- 💡 **fframess:** [fframess.com](https://www.fframess.com)
 
 Let’s connect and build something awesome together! 🚀
