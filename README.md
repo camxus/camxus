@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Camillus**, a passionate **Fullstack Developer** currently brainchilding [**fframess**](https://fframess.com) — a creative platform dealing with collaborative art tools.  
+I'm **Cam**, a passionate **Fullstack Developer** currently brainchilding [**fframess**](https://fframess.com) — a creative platform dealing with collaborative art tools.  
 Previously, I contributed to the platform at [SigTech]([https://github.com/bonrepublic](https://github.com/SIGTechnologies)).
 
 ### 🔧 Technologies & Tools
